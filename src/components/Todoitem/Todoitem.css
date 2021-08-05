@@ -1,0 +1,5 @@
+form{margin: auto}
+input:first-of-type{width: 42%;position: relative;left: -2px;height: 24px;}
+input:nth-child(2){width: 29%;height: 24px;left: -3px;position: relative;}
+input:nth-child(3){width: 27%;height: 29px;position: relative;
+    left: 4px;color: white;border: none;background: #191ea2;margin-left: -7px;}
